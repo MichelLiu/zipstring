@@ -1,6 +1,6 @@
 version=0.09
 
-name=lua-card
+name=lua-zip
 dist=$(name)-$(version)
 
 LUA_VERSION =   5.1
