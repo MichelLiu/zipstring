@@ -9,19 +9,23 @@ Zipstring provide a simple interface to append buffers or files to the current z
 
 ## How to use
 
- - Python Extending:
+Python Extending:
+
 
     % git clone https://github.com/MichelLiu/zipstring.git
     % cd py_zip
     % python setup.py install
     % python ziptest.py
 
- - Lua Extending:
+
+Lua Extending:
+
 
     % git clone https://github.com/MichelLiu/zipstring.git
     % cd lua_zip
     % make all && make install
     % lua test.lua
+
 
 ## Zip string Example
 
